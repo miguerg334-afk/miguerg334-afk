@@ -41,8 +41,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="51" alt="n8n logo" />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
 </div>
 
