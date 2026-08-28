@@ -31,6 +31,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="51" alt="nextjs logo" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=astro" height="51" alt="astro logo" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="51" alt="tailwindcss logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=php" height="51" alt="php logo" />
