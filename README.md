@@ -44,10 +44,3 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
 </div>
 
-###
-
-<p align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-</p>
-
-###
