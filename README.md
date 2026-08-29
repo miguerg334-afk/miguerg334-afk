@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./githubimg.png" alt="Miguel Banner" width="100%" />
-</p>
+
 
 <h1 data-importer="text" align="center">🌐 Hello world! My name is Miguel 🚀</h1>
 
