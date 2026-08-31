@@ -62,3 +62,8 @@
   </p>
 </div>
 
+<p align="center">
+  <a href="https://miguerg334-afk.github.io/mi-portafolio/">
+    <img src="https://img.shields.io/badge/PORTAFOLIO_3D-LIVE_DEMO-00f2fe?style=for-the-badge&logo=three.js&logoColor=white&labelColor=030712" alt="Portafolio 3D Live Demo">
+  </a>
+</p>
