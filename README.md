@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=go" height="51" alt="go logo" />
 </div>
 
 ---
