@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/Technology.png" width="100%">
-</p>
 
 <h1 data-importer="text" align="center">🌐 Hello world! My name is Miguel 🚀</h1>
 
