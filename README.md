@@ -1,68 +1,65 @@
-
-<h1 data-importer="text" align="center">🌐 Hello world! My name is Miguel 🚀</h1>
-
-###
-
-<h5 data-importer="text" align="center">💻 Software Developer & Tech Enthusiast 🛠️<br><br>Passionate about coding, innovation, and continuous learning in the world of tech. 🚀</h5>
-
-###
-
-<h2 data-importer="text" align="center">🛠️ Languages & Tools:</h2>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="51" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="51" alt="docker logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="51" alt="mongodb logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="51" alt="mysql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="51" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="51" alt="nextjs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=astro" height="51" alt="astro logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="51" alt="tailwindcss logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="51" alt="php logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=go" height="51" alt="go logo" />
-</div>
-
----
-<div align="center">
-  <h2>📬 Connect with me</h2>
-  <p>Feel free to reach out for collaborations or just a friendly chat!</p>
-  
-  <p>
-    <a href="mailto:miguerg334@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://wa.me/3153728743" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://instagram.com/miguell.zip" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="assets/banner-miguel.png" width="100%" alt="Miguel Angel Guerrero Rodriguez — Programador. Desarrollo web, experiencias 3D y automatización." />
+</p>
 
 <p align="center">
   <a href="https://miguerg334-afk.github.io/mi-portafolio/">
-    <img src="https://img.shields.io/badge/PORTAFOLIO_3D-LIVE_DEMO-00f2fe?style=for-the-badge&logo=three.js&logoColor=white&labelColor=030712" alt="Portafolio 3D Live Demo">
+    <img src="https://img.shields.io/badge/Ver_mi_portafolio-030712?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Ver mi portafolio" />
   </a>
+  <a href="mailto:miguerg334@gmail.com">
+    <img src="https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Escríbeme por correo" />
+  </a>
+  <a href="https://wa.me/573153728743">
+    <img src="https://img.shields.io/badge/WhatsApp-030712?style=for-the-badge&logo=whatsapp&logoColor=22d3ee" alt="Contactar por WhatsApp" />
+  </a>
+</p>
+
+## Sobre mí
+
+Soy **Miguel**, programador y entusiasta de la tecnología. Desarrollo sitios web, experiencias interactivas y automatizaciones que convierten ideas en soluciones funcionales.
+
+Me interesa combinar interfaces claras, lógica de backend e interactividad 3D. Disfruto aprender, experimentar con nuevas herramientas y colaborar en proyectos con una utilidad concreta.
+
+## Lo que construyo
+
+- **Desarrollo web:** sitios y aplicaciones adaptables a distintos dispositivos.
+- **Experiencias 3D:** interfaces y juegos que se ejecutan en el navegador.
+- **Automatización:** integraciones y flujos que conectan herramientas y simplifican tareas.
+
+## Lenguajes y herramientas
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | JavaScript · TypeScript · Python · PHP · Go |
+| **Interfaces web** | React · Next.js · Astro · Tailwind CSS |
+| **Backend** | Node.js · APIs REST |
+| **Datos** | PostgreSQL · MySQL · MongoDB · Supabase |
+| **Entorno y despliegue** | Docker · Git · GitHub |
+| **Interactividad** | Three.js · WebGL |
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" width="32" height="32" alt="Astro" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
+</p>
+
+## Proyectos destacados
+
+| Proyecto | Qué encontrarás |
+| :--- | :--- |
+| [**Colegio Santa Gema**](https://colegiosantagema.edu.ve/) | Sitio institucional con propuesta educativa, oferta académica y canales de contacto. |
+| [**Luis Connecting You**](https://luisconnectingyou.com/) | Web de marca personal, asesoría inmobiliaria, entrevistas y artículos. |
+| [**APEX — Night Drive**](https://apex-night-drive.pages.dev/) | Experiencia de conducción nocturna 3D y persecuciones policiales en el navegador. |
+
+## Hablemos
+
+¿Tienes un proyecto en mente o buscas colaborar? Puedes escribirme por [correo](mailto:miguerg334@gmail.com) o [WhatsApp](https://wa.me/573153728743).
+
+<p align="center">
+  <sub>Interfaces claras · Experiencias interactivas · Soluciones a medida</sub>
 </p>
