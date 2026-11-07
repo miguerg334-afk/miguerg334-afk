@@ -23,7 +23,7 @@ Me interesa combinar interfaces claras, lógica de backend e interactividad 3D. 
 ## Lo que construyo
 
 - **Desarrollo web:** sitios y aplicaciones adaptables a distintos dispositivos.
-- **Experiencias 3D:** interfaces y juegos que se ejecutan en el navegador.
+- **Experiencias 3D:** escenas, visualizaciones e interfaces interactivas para la web.
 - **Automatización:** integraciones y flujos que conectan herramientas y simplifican tareas.
 
 ## Lenguajes y herramientas
@@ -33,19 +33,32 @@ Me interesa combinar interfaces claras, lógica de backend e interactividad 3D. 
 | **Lenguajes** | JavaScript · TypeScript · Python · PHP · Go |
 | **Interfaces web** | React · Next.js · Astro · Tailwind CSS |
 | **Backend** | Node.js · APIs REST |
-| **Datos** | PostgreSQL · MySQL · MongoDB · Supabase |
+| **Datos** | SQL (PostgreSQL · MySQL) · MongoDB · Supabase |
 | **Entorno y despliegue** | Docker · Git · GitHub |
 | **Interactividad** | Three.js · WebGL |
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=astro" width="32" height="32" alt="Astro" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="38" height="38" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" width="38" height="38" alt="Go" title="Go" />&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" width="38" height="38" alt="Astro" title="Astro" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" width="38" height="38" alt="PostgreSQL (SQL)" title="PostgreSQL (SQL)" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL (SQL)" title="MySQL (SQL)" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="38" height="38" alt="Supabase" title="Supabase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />&nbsp;
 </p>
 
 ## Proyectos destacados
